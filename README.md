@@ -1,5 +1,5 @@
 - 👋 Olá! Eu sou @JoseAntonioBomfim
-- 👀 Meus interesses são Desenvolvimento Web, Analise de Dados e Administração.
+- 👀 Meus interesses são Desenvolvimento Web, Análise de Dados e Administração.
 - 🌱 Estou estudadando Análise e Desenvolvimento de Sistemas.
 - 💞️ Estou procurando por um Estagio, ou trabalho como Desenvolvedor Junior.
 - 📫 Meus Contatos:
