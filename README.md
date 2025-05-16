@@ -4,7 +4,7 @@
 - 💞️ Estou procurando por um Estágio, ou trabalho como Desenvolvedor Junior.
 - 📫 Meus Contatos:
 * jabs_0151@hotmail.com
-* https://www.linkedin.com/in/jose-antonio-bomfim/ 
+* linkedin.com/in/techjoseantoniobomfim 
 
 
 <!---
